@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ProEventos.API",
+    "\\src\\ProEventos.Application",
+    "\\src\\ProEventos.Application\\obj"
+  ],
+  "SelectedNode": "\\src\\ProEventos.Application\\LoteService.cs",
+  "PreviewInSolutionExplorer": false
+}
